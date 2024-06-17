@@ -1,94 +1,94 @@
 # Tarjetas de debito Cajamar
 Dentro de la entidad financiera Cajamar podemos encontrar diferentes opciones de producto en relacion con las tarjetas de debito.
-Existen las siguientes opciones: 
+Existen las siguientes opciones:
 - Tarjeta Visa dorada Renfe
-- Tarjeta prepago 
+- Tarjeta prepago
 - Tarjeta prepago junior
 - Tarjeta e-Shopping
 - Tarjeta Visa Debito
 - Carnet joven
 
 ## Tarjeta Visa dorada Renfe:
- Además de las mismas funcionalidades de la tarjeta Visa Electrón, está emitida conjuntamente con RENFE y le permite acceder a múltiples descuentos en la compra de billetes de cualquier clase y tren de larga distancia.
+ Ademas de las mismas funcionalidades de la tarjeta Visa Electron, esta emitida conjuntamente con RENFE y le permite acceder a multiples descuentos en la compra de billetes de cualquier clase y tren de larga distancia.
 
 ###  Beneficiarios: 
--Mayores de 60 años
--Pensionistas mayores de 18 años, en situación de incapacidad física o psíquica permanente, total, absoluta o gran invalidez, formalmente declarada.
--Personas con minusvalía igual o superior al 33%, si tienes una discapacidad igual o superior al 65% puedes viajar con un acompañante que lo hará en las mismas condiciones económicas que tú.
+-Mayores de 60 anos
+-Pensionistas mayores de 18 anos, en situacion de incapacidad fisica o psiquica permanente, total, absoluta o gran invalidez, formalmente declarada.
+-Personas con minusvalia igual o superior al 33%, si tienes una discapacidad igual o superior al 65% puedes viajar con un acompanante que lo hara en las mismas condiciones economicas que tu.
 
 ### Funcionalidades:
--Disposición de efectivo en cajeros automáticos de todo el mundo con distintivo VISA (más de 40.000 en España y más de 600.000 en el resto de países)
+-Disposicion de efectivo en cajeros automaticos de todo el mundo con distintivo VISA (mas de 40.000 en Espana y mas de 600.000 en el resto de paises)
 -Soporte a los cajeros de Grupo Cooperativo Cajamar y cajeros de otras entidades.
--Medio de pago en establecimientos comerciales de todo el mundo (más de 900.000 en España y más de 20 millones en el resto)
+-Medio de pago en establecimientos comerciales de todo el mundo (mas de 900.000 en Espana y mas de 20 millones en el resto)
 
 #### Descuentos aplicados por RENFE en la compra de billetes con la tarjeta:
--En trenes Ave, Alvia, Euromed e Intercity: 25% de descuento sobre la mejor tarifa disponible, para cualquier día de la semana. El descuento no es aplicable sobre los complementos.
--En trenes Avant: De lunes a viernes: 25% de descuento. Sábados y domingos: 40% de descuento
--En trenes Media distancia convencional y Cercanías: 40% de descuento
+-En trenes Ave, Alvia, Euromed e Intercity: 25% de descuento sobre la mejor tarifa disponible, para cualquier dia de la semana. El descuento no es aplicable sobre los complementos.
+-En trenes Avant: De lunes a viernes: 25% de descuento. Sabados y domingos: 40% de descuento
+-En trenes Media distancia convencional y Cercanias: 40% de descuento
 -Feve: 50% de descuento
 
 ## Tarjeta prepago
-Esta tarjeta te ofrece total seguridad y control sobre tus compras, ya que sólo gastas lo que hayas recargado de forma inmediata. Podrás recargarla tantas veces como quieras, desde el cajero, banca electrónica o app.
+Esta tarjeta te ofrece total seguridad y control sobre tus compras, ya que solo gastas lo que hayas recargado de forma inmediata. Podras recargarla tantas veces como quieras, desde el cajero, banca electronica o app.
 
 ### Funcionalidades:
--Disponible para pago móvil y Apple Pay.
+-Disponible para pago movil y Apple Pay.
 -Disponible Contactless.
--Permite personalización de imagen (Picture).
+-Permite personalizacion de imagen (Picture).
 -Disponibilidad del importe cargado en la tarjeta de forma inmediata independientemente del lugar del mundo donde se encuentre la tarjeta.
 
 ### Beneficiarios ideales:
 Esta tarjeta es ideal para:
--Clientes con hijos o familiares que tengan la intención de viajar, o simplemente para aquellos que quieran administrar mediante este medio la disposición de efectivo para sus hijos o familiares menores.
+-Clientes con hijos o familiares que tengan la intencion de viajar, o simplemente para aquellos que quieran administrar mediante este medio la disposicion de efectivo para sus hijos o familiares menores.
 -Para clientes que quieran realizar un regalo a sus conocidos mediante una recarga en tarjeta.
 
 ## Tarjeta prepago junior
-Si tu peque ya no es tan niño y necesitas darle una pequeña paga o poner a su disposición una cantidad de dinero porque ya empieza a salir, a realizar sus primeras compras, o incluso este verano se marcha de campamento, ahora te lo ponemos muy fácil con la Tarjeta Prepago Junior.
-Una tarjeta para tu peque, que dependerá de la tuya y sólo tendrás que realizar una recarga de su tarjeta a través de oficina, banca electrónica o cajero, para que disponga de efectivo.
+Si tu peque ya no es tan nino y necesitas darle una pequena paga o poner a su disposicion una cantidad de dinero porque ya empieza a salir, a realizar sus primeras compras, o incluso este verano se marcha de campamento, ahora te lo ponemos muy facil con la Tarjeta Prepago Junior.
+Una tarjeta para tu peque, que dependera de la tuya y solo tendras que realizar una recarga de su tarjeta a traves de oficina, banca electronica o cajero, para que disponga de efectivo.
 
 ## Tarjeta e-Shopping
-Tarjeta "virtual", sin soporte físico, que mediante la precarga de su saldo, permite a su titular realizar pagos en Internet y telefono, sin riesgos de uso fraudulento de los datos y del saldo de sus tarjetas convencionales.
+Tarjeta "virtual", sin soporte fisico, que mediante la precarga de su saldo, permite a su titular realizar pagos en Internet y telefono, sin riesgos de uso fraudulento de los datos y del saldo de sus tarjetas convencionales.
 
 ### Modalidad:
 Tarjeta de debito con prepago (Mastercard), lo que significa que solo y exclusivamente se puede disponer del saldo previamente cargado.
 
 ### Funcionalidades:
-Medio de pago para compras en Internet o teléfono.
+Medio de pago para compras en Internet o telefono.
 
 ### Operativa:
-El titular, deberá ser cliente de nuestro servicio de Banca Electrónica. Puede contratar online la tarjeta "virtual" desde dicho servicio, obteniendo on-line los datos de la misma: numero, PIN (numero secreto de la tarjeta), fecha de caducidad y codigo de verificación de la tarjeta (CVV2), pudiendo operar desde este momento con ella.
-Toda la gestion de la tarjeta: recarga, descarga, duplicado de PIN, cambio de PIN y cancelación, se realizará exclusivamente a través de Banca Electrónica.
+El titular, debera ser cliente de nuestro servicio de Banca Electronica. Puede contratar online la tarjeta "virtual" desde dicho servicio, obteniendo on-line los datos de la misma: numero, PIN (numero secreto de la tarjeta), fecha de caducidad y codigo de verificacion de la tarjeta (CVV2), pudiendo operar desde este momento con ella.
+Toda la gestion de la tarjeta: recarga, descarga, duplicado de PIN, cambio de PIN y cancelacion, se realizara exclusivamente a traves de Banca Electronica.
 
 ### Costes:
-Cuota de emisión: 0 euros. Cuota de mantenimiento: 0 euros.
+Cuota de emision: 0 euros. Cuota de mantenimiento: 0 euros.
 
 ## Tarjeta Visa Debito
 La tarjeta que te abre todas las puertas.
 
 ### Modalidad:
-Tarjeta de débito
+Tarjeta de debito
 
 ### Funcionalidades:
--Disposición de efectivo en cajeros automáticos de todo el mundo con distintivo VISA (más de 40.000 en España y más de 600.000 en el resto de paises)
--Soporte de acceso a los cajeros propios de Grupo Cooperativo Cajamar y a cajeros nacionales para su uso en consultas de saldos y movimientos, traspasos, recarga de tarjetas telefónicas, etc.
--Medio de pago en establecimientos comerciales de todo el mundo (más de 900.000 en España y más de 20 millones en el resto)
+-Disposicion de efectivo en cajeros automaticos de todo el mundo con distintivo VISA (mas de 40.000 en Espana y mas de 600.000 en el resto de paises)
+-Soporte de acceso a los cajeros propios de Grupo Cooperativo Cajamar y a cajeros nacionales para su uso en consultas de saldos y movimientos, traspasos, recarga de tarjetas telefonicas, etc.
+-Medio de pago en establecimientos comerciales de todo el mundo (mas de 900.000 en Espana y mas de 20 millones en el resto)
 
 ### Costes:
-Cuota de emisión: 36 euros. Cuota de mantenimiento: 36 euros.
-Para las tarjetas asociadas a la Cuenta Wefferent. Cuota de emisión: 0 euros. Cuota de mantenimiento: 0 euros.
+Cuota de emision: 36 euros. Cuota de mantenimiento: 36 euros.
+Para las tarjetas asociadas a la Cuenta Wefferent. Cuota de emision: 0 euros. Cuota de mantenimiento: 0 euros.
 
 ## Carnet joven
-Benefíciate de las ventajas de ser ¡JOVEN! con el Carnet Jove de la Comunidad Valenciana.
+Beneficiate de las ventajas de ser JOVEN! con el Carnet Jove de la Comunidad Valenciana.
 
 ### Beneficiarios:
-Si tienes entre 14 y 30 años, solicítala y disfruta de los descuentos y ventajas que te ofrece esta tarjeta. (http://www.ivaj.gva.es/es/carnetjove)
+Si tienes entre 14 y 30 anos, solicitala y disfruta de los descuentos y ventajas que te ofrece esta tarjeta. (http://www.ivaj.gva.es/es/carnetjove)
 
 ### Funcionalidades:
-- Disponer de efectivo en cajeros automáticos de todo el mundo con distintivo VISA (más de 40.000 en España y más de 600.000 en el resto de países).
+- Disponer de efectivo en cajeros automaticos de todo el mundo con distintivo VISA (mas de 40.000 en Espana y mas de 600.000 en el resto de paises).
 - Soporte a los cajeros de Grupo Cooperativo Cajamar y cajeros de otras entidades.
-- Utilizarla como medio de pago en establecimientos comerciales de todo el mundo (más de 900.000 en España y más de 20 millones en el resto)
-- Sentirte seguro sus viajes: la tarjeta se puede bloquear y sustituir en caso de pérdida o robo. Si pierde su tarjeta, infórmenos inmediatamente llamando al 900 210 303.
-- Disponer del servicio "Efectivo de emergencia", en caso de pérdida, deterioro o robo de su tarjeta. A través del cual, con un teléfono móvil y una sola llamada a nuestra Banca Telefónica +34 950 21 01 91, podrá retirar efectivo sin necesidad de tarjeta.
-- Comprar en Internet, siempre que desee comprar en la Red, busque el distintivo "Verified by Visa", un servicio muy sencillo que garantiza que tanto el establecimiento como el cliente son auténticos.
+- Utilizarla como medio de pago en establecimientos comerciales de todo el mundo (mas de 900.000 en Espana y mas de 20 millones en el resto)
+- Sentirte seguro sus viajes: la tarjeta se puede bloquear y sustituir en caso de perdida o robo. Si pierde su tarjeta, informenos inmediatamente llamando al 900 210 303.
+- Disponer del servicio "Efectivo de emergencia", en caso de perdida, deterioro o robo de su tarjeta. A traves del cual, con un telefono movil y una sola llamada a nuestra Banca Telefonica +34 950 21 01 91, podra retirar efectivo sin necesidad de tarjeta.
+- Comprar en Internet, siempre que desee comprar en la Red, busque el distintivo "Verified by Visa", un servicio muy sencillo que garantiza que tanto el establecimiento como el cliente son autenticos.
 
 # Tarjetas de credito Cajamar
 Dentro de la entidad financiera Cajamar podemos encontrar diferentes opciones de producto en relacion con las tarjetas de credito.
