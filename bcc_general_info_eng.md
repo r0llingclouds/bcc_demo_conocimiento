@@ -1,4 +1,4 @@
-# Cajamar
+# Bank Cajamar
 ## About the entity
 Cajamar Caja Rural is Spain leading rural savings bank and credit institution. It is part of and the largest shareholder in Grupo Cooperativo Cajamar, which as of 31 March 2024 has assets amounting to 60,132 million euros, a managed turnover of 98,906 million euros, a solvency ratio of 16.2% and a surplus to solvency requirements of 822 million euros. With more than 1.7 million members, it plays an important role in the modernisation of Spains rural environment, contributing through its financial and social activity to the economic, social and environmental sustainability of our territory, devoting special attention to the agri-food sector, as well as to the family economy, to self-employed professionals and small and medium-sized enterprises.
 
@@ -11,11 +11,11 @@ Cajamar Caja Rural attends the needs of any sector of the economy and population
 
 Cajamar Caja Rural's activities are designed for the needs and demands for financing, savings and investment of its partners and clients. It carries out all types of asset, liability and service operations, including retail banking through its network of branches, corporate banking, mortgage loans, telephone and online banking, financial operations with non-residents, management of funds and property, financial leasing, insurance and other secondary products to attract resources or client financing.
 
-The effectiveness of this commitment, along with adequate diversification, growth and expansion strategies, makes Cajamar Caja Rural an innovative, efficient and enterprising organisation applying a multichannel management model that combines state-of-the-art technology with customised service in all branches of  the Cajamar Caja Rural banking network.
+The effectiveness of this commitment, along with adequate diversification, growth and expansion strategies, makes Cajamar Caja Rural an innovative, efficient and enterprising organisation applying a multichannel management model that combines state-of-the-art technology with customised service in all branches of the Cajamar Caja Rural banking network.
 
 ## Most relevant figures in terms of:
 ### Business:
-- Total assets: 60,132 Millons of euros
+- Total assets: 60,132 millions of euros
 - Customer resources under management: 52,565 Millons of euros
 - Performing loans to retail customers: 36,890 Millons of euros
 
